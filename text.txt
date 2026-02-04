@@ -1,2 +1,6 @@
 This is a test file
+<<<<<<< HEAD
 This is a new text file in main
+=======
+This is a new text file in feature1
+>>>>>>> feature1
